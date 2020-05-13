@@ -3,7 +3,7 @@ layout: post
 title: Why is Exponential Growth needed? 
 subtitle: Corona virus affected count prediction
 tags: [MACHINE_LEARNING, data-science]
-image: /img/post_1.jpg.
+image: /img/post_1.jpg
 comments: true
 ---
 
