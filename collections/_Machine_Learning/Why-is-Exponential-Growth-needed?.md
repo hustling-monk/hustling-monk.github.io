@@ -7,8 +7,6 @@ image: /img/post_1.jpg
 comments: true
 ---
 
-![](img/post_1.jpg)
-
 # **Why is Exponential Growth needed?**
 
 Exponential Growth is a mathematical function that can be used in several situations. The formula tells us the number of cases at a certain moment in time, in the case of Coronavirus, this is the number of infected people. In other use cases of exponential growth, this number could be the size of an animal population or the value on your bank account. The reason to use Exponential Growth for modeling the Coronavirus outbreak is that epidemiologists have studied those types of outbreaks and it is well known that the first period of an epidemic follows Exponential Growth.
