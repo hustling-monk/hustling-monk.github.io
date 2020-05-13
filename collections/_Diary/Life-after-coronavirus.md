@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life after Covid-19 Pandemic
-subtitle: Life after **Covid-19** will be never be same as before. This global pandemic has changed the people behavior, lifestyle and culture once for all. From healthcare sector to banking sector, from tourism to education, everything has to go through paradigm shift.
+subtitle: Life after Covid-19 will be never be same as before. This global pandemic has changed the people behavior, lifestyle and culture once for all. From healthcare sector to banking sector, from tourism to education, everything has to go through paradigm shift.
 
 Values will change, our lives will change, our working culture will change even our homes will change under this global pandemic.
 tags: [Life-style]
