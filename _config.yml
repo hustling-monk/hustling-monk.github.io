@@ -1,4 +1,4 @@
-# --- Added by YongWook --- #
+# --- Added by Abhishek --- #
 
 collections_dir: collections
 collections:
@@ -24,7 +24,7 @@ collections:
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://yongwookha.github.io"
+url: "https://hustling-monk.github.io/"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -34,10 +34,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: YongWook's Page
+title: Abhishek's blog
 
 # Short description of your site
-description: Here, you'll find out much about me.
+description: Here I have shared my experiments.
 
 # --- Navigation bar options --- #
 
@@ -54,7 +54,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/deepdream.jpg"
+avatar: "/img/123.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -86,15 +86,15 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: YongWook Ha
+  name: Abhishek
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  email: "ywha12@gmail.com"
-  github: "YongWookHa"
+  email: abhisheksumukh1994@gmail.com"
+  github: "hustling-monk"
 #  rss: true
 #  facebook: daattali
 #  twitter: daattali
@@ -127,7 +127,7 @@ share-links-active:
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-157708445-1"
+#google_analytics: "UA-157708445-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -144,7 +144,7 @@ google_analytics: "UA-157708445-1"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "yongwooks-page"
+#disqus: "yongwooks-page"
 
 # If you want to use JustComments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
@@ -153,15 +153,15 @@ disqus: "yongwooks-page"
 # fb_comment_id: ""
 
 # Staticman support
-staticman:
-  repository : "YongWookHa/yongwookha.github.io"
-  branch     : "master"
-  endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
-  reCaptcha:
+#staticman:
+#  repository : "YongWookHa/yongwookha.github.io"
+#  branch     : "master"
+#  endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
+#  reCaptcha:
     # reCaptcha for Staticman (OPTIONAL)
     # If you use reCaptcha, you must also set these parameters in staticman.yml
-    siteKey  : # Use your own site key, you need to apply for one on Google
-    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
+#    siteKey  : # Use your own site key, you need to apply for one on Google
+#    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
 
@@ -179,7 +179,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Asia/Seoul"
+timezone: "Asia/Bangalore"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
