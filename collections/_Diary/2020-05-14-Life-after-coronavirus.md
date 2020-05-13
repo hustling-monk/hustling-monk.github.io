@@ -21,6 +21,10 @@ During this global tragedy, the work from this field is very critical. Not only 
 
 This sector alone would be foundation to several other sectors ion coming days. Like Pharmaceutical companies trying to find vaccines and manufacturing gloves, masks and PPE kit. Every sector would be revolving around this field. As masks and sanitizers has become a crucial part of our life, companies involved in manufacturing these items will emerge soon.
 
+![Life](/img/dawn1.JPG)
+
+
+
 - **Transport and Tourism** :
 
 This will be the worst hit sector. Because there will be less footfalls on the trains, busses or any public transport. To maintain the social distancing norms the companies may accommodate half of the passengers and most might be using their private vehicles mainly cycles to commute to their work place(if allowed).
