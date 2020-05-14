@@ -6,7 +6,7 @@ tags: [Life-style]
 image: /img/purpose.jpg
 comments: true
 ---
-![Hustler](/img/20191009_233724.JPG)
+![Hustler](/img/20191009_233724.jpg)
 
 
 Hii,
