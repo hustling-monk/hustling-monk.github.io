@@ -4,7 +4,8 @@ title: Introduction to Visualization in Python.
 subtitle: Visualization in Python.
 tags: [MACHINE_LEARNING, data-science]
 image: /img/matplotlib.png
-commen
+comments: true
+---
 
 ## Introduction
 
