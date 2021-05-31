@@ -45,7 +45,7 @@ Number = Batch size of the Data.
 
 Channel = Feature dimension.(for RGB images K = 3)
 
-![Life1](/img/caffe3.png)
+![Life1](/img/Caffe3.png)
 
 **Steps in training Caffe model.**
 
