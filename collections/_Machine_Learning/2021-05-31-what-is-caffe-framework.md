@@ -3,10 +3,10 @@ layout: post
 title: What is Caffe Framework.
 subtitle: Deep learning Framework.
 tags: [MACHINE_LEARNING, data-science]
-image: /img/caffe2.PNG
+image: /img/caffe2.png
 comments: true
 ---
-![Life](/img/caffe.PNG)
+![Life](/img/caffe.png)
 **What is deep learning?**
 
 **Deep learning** is a part of **Machine Learning** methods and techniques based on learning data patterns and making predictions. The learning in this case, by an ML model, can be supervised, semi-supervised or unsupervised. In Deep learning we are actually trying to mimic the human brain inside the computer. Deep learning algorithms are inspired by and based on the human brain&#39;s structure and function, and are called **Artificial Neural Networks**.
@@ -45,7 +45,7 @@ Number = Batch size of the Data.
 
 Channel = Feature dimension.(for RGB images K = 3)
 
-![Life](/img/caffe3.PNG)
+![Life](/img/caffe3.png)
 
 **Steps in training Caffe model.**
 
